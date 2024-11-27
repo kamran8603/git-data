@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       hello world
       new hello world
+      hello world from devv 
+      
 <New />
     </div>
   );
